@@ -15,7 +15,7 @@ bitarray==2.6.0
 bitstring==3.1.9
 cached-property==1.5.2
 cbor2==5.4.3
-certifi==2022.6.15
+certifi==2023.7.22
 cffi==1.15.1
 cfxdb==22.6.1
 chardet==5.0.0
